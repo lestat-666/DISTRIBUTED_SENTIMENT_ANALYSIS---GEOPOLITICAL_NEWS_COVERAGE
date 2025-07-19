@@ -1,4 +1,4 @@
-# DISTRIBUTED-SENTIMENT-ANALYSIS-GEOPOLITICAL-NEWS-COVERAGE
+# DISTRIBUTED_SENTIMENT_ANALYSIS - GEOPOLITICAL_NEWS_COVERAGE
 ## Large-scale sentiment analysis of YouTube video transcripts, focusing on geopolitical content analysis across multiple news channels.
 
 ### Project Overview
