@@ -19,3 +19,6 @@ NLP Libraries: TextBlob, NLTK
 Data Processing: Python, pandas
 Visualization: matplotlib, seaborn
 Audio Processing: pytube, pydub
+
+### Authors
+Anastasiia Golovchenko et al.
